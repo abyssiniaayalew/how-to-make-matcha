@@ -2,6 +2,8 @@
 
 Matcha is a Japanese green tea made by grinding specially grown tea leaves into a fine powder. Unlike traditional tea, matcha powder is mixed directly into water, allowing the entire tea leaf to be consumed. Preparing matcha is a simple process that requires only a few materials and can be completed in a few minutes.
 
+![A cup of matcha](images.jpg)
+
 ### WARNING: May get addicted to matcha!
 
 ## Required Materials
@@ -38,7 +40,7 @@ Matcha is a Japanese green tea made by grinding specially grown tea leaves into 
    - Use the bamboo whisk with your other hand.
    - Move the whisk quickly back and forth in a "W" or "M" motion.
    - Continue whisking until the matcha becomes smooth and a layer of foam forms on the surface.
-   > Avoid pressing the whisk firmly against the bottom of the bowl. Use quick, light movements instead.
+   - Avoid pressing the whisk firmly against the bottom of the bowl. Use quick, light movements instead.
 
 6. **Check the consistency**
    - Make sure there are no visible clumps of matcha powder.
